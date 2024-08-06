@@ -1,4 +1,4 @@
-package com.example.xml_layouts
+package com.example.Calender
 
 import android.icu.util.Calendar
 import android.os.Bundle
@@ -22,6 +22,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.xml_layouts.R
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import java.text.SimpleDateFormat
 import java.util.Locale

@@ -1,10 +1,11 @@
-package com.example.xml_layouts
+package com.example.Calender
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.xml_layouts.R
 
 class EventAdapter(private val events: List<String>) : RecyclerView.Adapter<EventAdapter.EventViewHolder>() {
 

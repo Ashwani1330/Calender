@@ -1,4 +1,4 @@
-package com.example.xml_layouts
+package com.example.Calender
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

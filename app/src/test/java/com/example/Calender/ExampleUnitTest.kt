@@ -1,4 +1,4 @@
-package com.example.xml_layouts
+package com.example.Calender
 
 import org.junit.Test
 
